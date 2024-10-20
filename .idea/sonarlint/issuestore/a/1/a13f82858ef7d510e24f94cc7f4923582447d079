@@ -1,0 +1,3 @@
+
+¢kotlin:S6532"~Replace this if expression with require(petRepository.findPetById(pet.id) == null) { "Pet with the given ID already exists" }.(­÷‹¤ÿÿÿÿÿ8À¨ãÚª2
+ukotlin:S6532$"QReplace this if expression with check(!(pets.isEmpty())) { "No pets available" }.(Ûˆ¼°þÿÿÿÿ8¡ÔƒÛª2
